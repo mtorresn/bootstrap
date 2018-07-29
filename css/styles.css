@@ -7,3 +7,25 @@
     color: #ffffff;
     padding: 50px 150px;
 }
+
+/*
+
+$main-color: #60057B;
+$light-text: #ffffff;
+$slides-bg: #999999;
+
+.bootstrap-class {
+    .our-bg {
+        background-color: $main-color;
+    }
+
+    slides {
+        .carousel {
+            background: $slides-bg;
+            color: $light-text;
+            padding: 50px 150px;
+        }
+    }
+}
+
+*/
