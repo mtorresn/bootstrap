@@ -1,0 +1,25 @@
+
+
+$main-color: #60057B;
+$light-text: #ffffff;
+$slides-bg: #999999;
+$slides-ligth-bg: #f1f1f1;
+.bootstrap-class {
+    .our-bg {
+        background-color: $main-color;
+    }
+
+    slides {
+        .carousel {
+            background: $slides-bg;
+            color: $light-text;
+            padding: 50px 150px;
+        
+            &.my-carousel {
+                background: $slides-ligth-bg;
+            }
+        }
+    }
+}
+
+
